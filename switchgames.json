@@ -1,3 +1,4 @@
+[
 {
         "id": "S01",
         "name": "Super Mario Odyssey",
@@ -16,7 +17,7 @@
            "slogan": "Play anywhere, anytime, with anyone",
            "country": "Japan"
         }
-}
+},
 
 {
     "id": "S02",
@@ -25,6 +26,31 @@
     "priceineuro": 60,
     "isfirstparty": false,
     "releasedate": "2022-11-04",
+    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/harvestella.jpg?raw=true",
+    "genre": "rpg",
+    "characters": ["Cres", "Arya", "Unicorn", "Dim", "Asyl"],
+    "gamemaker": {
+        "id": "D02",
+        "name": "Square Enix",
+        "activesince": 2003,
+        "boss": "Takashi Kiryu",
+        "slogan": "Deliver Unforgettable Experiences",
+        "country": "Japan"
+    }
+},
+
+{
+    "id": "S03",
+    "name": "Story of Seasons: Friends of Mineral Town",
+    "description": "Story of Seasons: Friends of Mineral Town is a farming simulation game where players take on the role of a young farmer who returns to the countryside to revitalize their late grandfather's farm. The game combines farming, animal husbandry, and building relationships with the townsfolk. Players can grow crops, raise animals, mine, fish, and participate in festivals. As they progress, they can develop friendships and even pursue marriage with one of the town's bachelors or bachelorettes. It’s a relaxing and nostalgic game, offering a charming rural life experience.",
+    "priceineuro": 40,
+    "isfirstparty": false,
+    "releasedate": "2019-10-07",
     "image": "",
-    
-: }
+    "genre": "farming simulator",
+    "characters": ["Thomas", "Popouri", "Rick", "Ky", "An", "Doctor"],
+    "gamemaker":{
+        
+    }
+}
+]

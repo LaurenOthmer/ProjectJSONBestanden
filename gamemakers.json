@@ -1,8 +1,19 @@
-{
-    "id": "D01",
-    "name": "Nintendo",
-    "activesince": 1889,
-    "boss": "Shuntaro Furukawa",
-    "slogan": "Play anywhere, anytime, with anyone",
-    "country": "Japan"
- }
+[
+    {
+        "id": "D01",
+        "name": "Nintendo",
+        "activesince": 1889,
+        "boss": "Shuntaro Furukawa",
+        "slogan": "Play anywhere, anytime, with anyone",
+        "country": "Japan"
+    },
+
+    {
+        "id": "D02",
+        "name": "Square Enix",
+        "activesince": 2003,
+        "boss": "Takashi Kiryu",
+        "slogan": "Deliver Unforgettable Experiences",
+        "country": "Japan"
+}
+]

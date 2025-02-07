@@ -5,7 +5,26 @@
         "priceineuro": 60,
         "isfirstparty": true,
         "releasedate": "2017-10-27",
-        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+        "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/mario.png?raw=true",
         "genre": "platformer",
-        
-    }
+        "characters": ["Mario", "Princess Peach", "Bowser", "Toad", "Cappy"],
+        "gamemaker": {
+           "id": "D01",
+           "name": "Nintendo",
+           "activesince": 1889,
+           "boss": "Shuntaro Furukawa",
+           "slogan": "Play anywhere, anytime, with anyone",
+           "country": "Japan"
+        }
+}
+
+{
+    "id": "S02",
+    "name": "Harvestella",
+    "description": "Harvestella is an action-RPG developed by Square Enix that blends farming simulation with adventure and combat elements. Set in a world where the four seasons are governed by the mystical 'Seasons,' the game follows a protagonist who navigates through a land threatened by an enigmatic season known as 'Quietus.' Players grow crops, tend to a farm, and build relationships with various characters, all while exploring dungeons and battling enemies. The game combines life-simulation mechanics with an engaging storyline and real-time combat.",
+    "priceineuro": 60,
+    "isfirstparty": false,
+    "releasedate": "2022-11-04",
+    "image": "",
+    
+: }

@@ -1,0 +1,11 @@
+{
+        "id": "S01",
+        "name": "Super Mario Odyssey",
+        "description": "Super Mario Odyssey is a 3D platformer game developed by Nintendo for the Nintendo Switch. It follows Mario on a globe-trotting adventure to rescue Princess Peach from Bowser, who plans to marry her. Mario is joined by Cappy, a sentient hat, which allows him to possess enemies and objects to solve puzzles and overcome obstacles. The game features expansive, vibrant open-world environments, with each kingdom offering unique challenges and collectibles, making it a highly praised and creative entry in the Mario series.",
+        "priceineuro": 60,
+        "isfirstparty": true,
+        "releasedate": "2017-10-27",
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+        "genre": "platformer",
+        
+    }

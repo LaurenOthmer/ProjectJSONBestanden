@@ -137,7 +137,7 @@
     "name": "Animal Crossing new Horizons",
     "description": "Animal Crossing: New Horizons is a life simulation game developed and published by Nintendo for the Nintendo Switch, released in March 2020. It is the fifth main installment in the Animal Crossing series and allows players to create and manage their own deserted island paradise.",
     "releasedate": "2020-03-20",
-    "image": "",
+    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/acnh.jpg?raw=true",
     "genre": "life simulator",
     "characters": ["Tom Nook", "Isabelle", "Timmy", "Tommy", "Mabel", "Redd"],
     "gamemaker":{
@@ -147,5 +147,23 @@
         "boss": "Shuntaro Furukawa",
         "country": "Japan"
     }
+},
+
+{
+    "id": "S09",
+    "name": "Persona 5 Royal",
+    "Description": "Persona 5 Royal is an enhanced and expanded version of the critically acclaimed JRPG Persona 5, developed by Atlus and released for the Nintendo Switch in October 2022. The game retains the original's stylish art direction and engaging turn-based combat while introducing new content and features.",
+    "releasedate": "2022-10-21",
+    "image": "",
+    "genre": "rpg",
+    "characters": ["Joker", "Ryuji", "Ann", "Yusuke", "Makoto", "Futaba", "Haru", "Akechi", "Kasumi", "Morgana"],
+    "gamemaker":{
+        "id": "D05",
+        "name": "Atlus",
+        "activesince": 1986,
+        "boss": "Osamu Ohashi",
+        "country": "Japan"
+    }
 }
+
 ]

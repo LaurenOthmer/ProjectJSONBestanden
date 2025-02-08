@@ -29,5 +29,13 @@
         "activesince": 1989,
         "boss": "Satoshi Tajiri",
         "country": "Japan"
-    }
+    },
+
+    {
+        "id": "D05",
+        "name": "Atlus",
+        "activesince": 1986,
+        "boss": "Osamu Ohashi",
+        "country": "Japan"
+}
 ]

@@ -171,7 +171,7 @@
     "name": "immortals fenyx rising",
     "description": "Immortals Fenyx Rising is an action-adventure game developed by Ubisoft and released in December 2020. Set in a vibrant, open-world version of ancient Greece, the game follows the story of Fenyx, a young hero tasked with saving the Greek gods and their home from a dark curse unleashed by the Titan Typhon.",
     "releasedate": "2020-12-03",
-    "image": "",
+    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/immortals.jpg?raw=true",
     "genre": "adventure",
     "characters": ["Fenyx", "Zeus", "Hermes", "Typhon"],
     "gamemaker":{

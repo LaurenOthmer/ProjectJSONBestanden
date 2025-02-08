@@ -37,5 +37,13 @@
         "activesince": 1986,
         "boss": "Osamu Ohashi",
         "country": "Japan"
-}
+},
+
+{
+        "id": "D06",
+        "name": "Ubisoft",
+        "activesince": 1986,
+        "boss": "Yves Guillemot",
+        "country": "France"
+    }
 ]

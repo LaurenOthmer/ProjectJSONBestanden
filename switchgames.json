@@ -101,7 +101,7 @@
     "priceineuro": 60,
     "isfirstparty": false,
     "releasedate": "2017-09-30",
-    "image":"",
+    "image":"https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/octopath.jpg?raw=true",
     "genre": "rpg",
     "characters":["Ophiolia", "Cyrus", "Primrose", "Tressa", "H'aanit", "Olberic"],
     "gamemaker":{
@@ -110,6 +110,25 @@
         "activesince": 2003,
         "boss": "Takashi Kiryu",
         "country": "Japan"
+    }
+}
+
+{
+    "id": "S07",
+    "name": "Mario Kart 8 Deluxe",
+    "description": "Mario Kart 8 Deluxe is a racing game developed and published by Nintendo for the Nintendo Switch, released in April 2017. It is an enhanced version of the original Mario Kart 8, which debuted on the Wii U in 2014.",
+    "priceineuro": 60,
+    "isfirstparty": true,
+    "releasedate": "2017-04-27",
+    "image": "",
+    "genre": "racing",
+    "character": ["Mario", "Luigi", "Shy Guy", "Princess Daisy", "Wario"],
+    "gamemaker": {
+    "id": "D01",
+    "name": "Nintendo",
+    "activesince": 1889,
+    "boss": "Shuntaro Furukawa",
+    "country": "Japan"
     }
 }
 ]

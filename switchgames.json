@@ -44,7 +44,7 @@
     "priceineuro": 40,
     "isfirstparty": false,
     "releasedate": "2019-10-07",
-    "image": "",
+    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/tonw.jpg?raw=true",
     "genre": "farming simulator",
     "characters": ["Thomas", "Popouri", "Rick", "Ky", "An", "Doctor"],
     "gamemaker":{
@@ -56,5 +56,22 @@
     }
 }
 
-
+{
+    "id": "S04",
+    "name": "The Legend of Zelda: Echoes of Wisdom",
+    "description": "The Legend of Zelda: Echoes of Wisdom features Zelda as she discovers a mysterious sword that grants her the ability to transform into a powerful swordfighter. Players explore Hyrule, battling monsters and solving puzzles while navigating sinister rifts that have appeared across the kingdom. Zelda utilizes a magical staff to summon 'echoes', which are imitations of objects and creatures, allowing her to interact with the environment in unique ways.",
+    "priceineuro": 60,
+    "isfirstparty": true,
+    "releasedate": "2024-09-26",
+    "image": "",
+    "genre": "adventure",
+    "characters": ["Zelda", "Link", "Ganon", "The King", "Impa"],
+    "gamemaker": {
+           "id": "D01",
+           "name": "Nintendo",
+           "activesince": 1889,
+           "boss": "Shuntaro Furukawa",
+           "country": "Japan"
+        }
+}
 ]

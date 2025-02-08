@@ -21,5 +21,13 @@
         "activesince": 1997,
         "boss": "Haruki Nakayama",
         "country": "Japan"
+    },
+
+    {
+        "id": "D04",
+        "name": "Gamefreak",
+        "activesince": 1989,
+        "boss": "Satoshi Tajiri",
+        "country": "Japan"
     }
 ]

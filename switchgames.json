@@ -54,7 +54,7 @@
         "boss": "Haruki Nakayama",
         "country": "Japan"
     }
-}
+},
 
 {
     "id": "S04",
@@ -63,7 +63,7 @@
     "priceineuro": 60,
     "isfirstparty": true,
     "releasedate": "2024-09-26",
-    "image": "",
+    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/echoes.png?raw=true",
     "genre": "adventure",
     "characters": ["Zelda", "Link", "Ganon", "The King", "Impa"],
     "gamemaker": {
@@ -73,5 +73,24 @@
            "boss": "Shuntaro Furukawa",
            "country": "Japan"
         }
+},
+
+{
+    "id": "S05",
+    "name": "Pokemon Violet",
+    "description": "Pokémon Violet is one of the two main titles in the ninth generation of the Pokémon series, released alongside Pokémon Scarlet. Set in the Paldea region, which is inspired by the Iberian Peninsula, the game introduces an open-world experience where players can explore diverse landscapes, from sprawling cities to lush countryside.",
+    "priceineuro": 60,
+    "isfirstparty": true,
+    "releasedate": "2022-11-18",
+    "image": "",
+    "genre": "rpg",
+    "characters": ["nemona", "Cassiopea", "Arven", "professor Turo"],
+    "gamemaker": {
+        "id": "D04",
+        "name": "Gamefreak",
+        "activesince": 1989,
+        "boss": "Satoshi Tajiri",
+        "country": "Japan"
+    }
 }
 ]

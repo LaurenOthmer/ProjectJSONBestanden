@@ -4,7 +4,6 @@
         "name": "Nintendo",
         "activesince": 1889,
         "boss": "Shuntaro Furukawa",
-        "slogan": "Play anywhere, anytime, with anyone",
         "country": "Japan"
     },
 
@@ -13,7 +12,14 @@
         "name": "Square Enix",
         "activesince": 2003,
         "boss": "Takashi Kiryu",
-        "slogan": "Deliver Unforgettable Experiences",
         "country": "Japan"
-}
+    },
+
+    {
+        "id": "D03",
+        "name": "Marvelous",
+        "activesince": 1997,
+        "boss": "Haruki Nakayama",
+        "country": "Japan"
+    }
 ]

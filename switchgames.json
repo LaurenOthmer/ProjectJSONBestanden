@@ -111,7 +111,7 @@
         "boss": "Takashi Kiryu",
         "country": "Japan"
     }
-}
+},
 
 {
     "id": "S07",
@@ -120,15 +120,32 @@
     "priceineuro": 60,
     "isfirstparty": true,
     "releasedate": "2017-04-27",
-    "image": "",
+    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/Mariokart.jpg?raw=true",
     "genre": "racing",
-    "character": ["Mario", "Luigi", "Shy Guy", "Princess Daisy", "Wario"],
+    "characters": ["Mario", "Luigi", "Shy Guy", "Princess Daisy", "Wario"],
     "gamemaker": {
     "id": "D01",
     "name": "Nintendo",
     "activesince": 1889,
     "boss": "Shuntaro Furukawa",
     "country": "Japan"
+    }
+},
+
+{
+    "id": "S08",
+    "name": "Animal Crossing new Horizons",
+    "description": "Animal Crossing: New Horizons is a life simulation game developed and published by Nintendo for the Nintendo Switch, released in March 2020. It is the fifth main installment in the Animal Crossing series and allows players to create and manage their own deserted island paradise.",
+    "releasedate": "2020-03-20",
+    "image": "",
+    "genre": "life simulator",
+    "characters": ["Tom Nook", "Isabelle", "Timmy", "Tommy", "Mabel", "Redd"],
+    "gamemaker":{
+        "id": "D01",
+        "name": "Nintendo",
+        "activesince": 1889,
+        "boss": "Shuntaro Furukawa",
+        "country": "Japan"
     }
 }
 ]

@@ -82,7 +82,7 @@
     "priceineuro": 60,
     "isfirstparty": true,
     "releasedate": "2022-11-18",
-    "image": "",
+    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/violet.jpg?raw=trues",
     "genre": "rpg",
     "characters": ["nemona", "Cassiopea", "Arven", "professor Turo"],
     "gamemaker": {
@@ -90,6 +90,25 @@
         "name": "Gamefreak",
         "activesince": 1989,
         "boss": "Satoshi Tajiri",
+        "country": "Japan"
+    }
+},
+
+{
+    "id": "S06",
+    "name": "OCtopath Traveller",
+    "description": "Octopath Traveler is a role-playing game developed by Square Enix and released in 2018. Set in the beautifully crafted world of Orsterra, the game features a unique 'HD-2D' art style that combines retro pixel art with modern visual effects, creating a visually stunning experience.",
+    "priceineuro": 60,
+    "isfirstparty": false,
+    "releasedate": "2017-09-30",
+    "image":"",
+    "genre": "rpg",
+    "characters":["Ophiolia", "Cyrus", "Primrose", "Tressa", "H'aanit", "Olberic"],
+    "gamemaker":{
+        "id": "D02",
+        "name": "Square Enix",
+        "activesince": 2003,
+        "boss": "Takashi Kiryu",
         "country": "Japan"
     }
 }

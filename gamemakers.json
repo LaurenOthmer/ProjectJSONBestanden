@@ -2,7 +2,7 @@
     {
         "id": "D01",
         "name": "Nintendo",
-        "activesince": 1889,
+        "activeSince": 1889,
         "boss": "Shuntaro Furukawa",
         "country": "Japan"
     },
@@ -10,7 +10,7 @@
     {
         "id": "D02",
         "name": "Square Enix",
-        "activesince": 2003,
+        "activeSince": 2003,
         "boss": "Takashi Kiryu",
         "country": "Japan"
     },
@@ -18,7 +18,7 @@
     {
         "id": "D03",
         "name": "Marvelous",
-        "activesince": 1997,
+        "activeSince": 1997,
         "boss": "Haruki Nakayama",
         "country": "Japan"
     },
@@ -26,7 +26,7 @@
     {
         "id": "D04",
         "name": "Gamefreak",
-        "activesince": 1989,
+        "activeSince": 1989,
         "boss": "Satoshi Tajiri",
         "country": "Japan"
     },
@@ -34,7 +34,7 @@
     {
         "id": "D05",
         "name": "Atlus",
-        "activesince": 1986,
+        "activeSince": 1986,
         "boss": "Osamu Ohashi",
         "country": "Japan"
 },
@@ -42,8 +42,9 @@
 {
         "id": "D06",
         "name": "Ubisoft",
-        "activesince": 1986,
+        "activeSince": 1986,
         "boss": "Yves Guillemot",
         "country": "France"
-    }
+    
+}
 ]

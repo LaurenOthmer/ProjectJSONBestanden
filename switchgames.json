@@ -5,7 +5,7 @@
         "description": "Super Mario Odyssey is a 3D platformer game developed by Nintendo for the Nintendo Switch. It follows Mario on a globe-trotting adventure to rescue Princess Peach from Bowser, who plans to marry her. Mario is joined by Cappy, a sentient hat, which allows him to possess enemies and objects to solve puzzles and overcome obstacles. The game features expansive, vibrant open-world environments, with each kingdom offering unique challenges and collectibles, making it a highly praised and creative entry in the Mario series.",
         "priceInEuro": 60,
         "isFirstParty": true,
-        "releaseDate": "2017-10-27",
+        "releaseDate": "27/10/2017",
         "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/mario.png?raw=true",
         "genre": "platformer",
         "characters": ["Mario", "Princess Peach", "Bowser", "Toad", "Cappy"],
@@ -96,7 +96,7 @@
 
 {
     "id": "S06",
-    "name": "OCtopath Traveller",
+    "name": "Octopath Traveller",
     "description": "Octopath Traveler is a role-playing game developed by Square Enix and released in 2018. Set in the beautifully crafted world of Orsterra, the game features a unique 'HD-2D' art style that combines retro pixel art with modern visual effects, creating a visually stunning experience.",
     "priceInEuro": 60,
     "isFirstParty": false,

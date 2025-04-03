@@ -24,7 +24,7 @@
     "description": "Harvestella is an action-RPG developed by Square Enix that blends farming simulation with adventure and combat elements. Set in a world where the four seasons are governed by the mystical 'Seasons,' the game follows a protagonist who navigates through a land threatened by an enigmatic season known as 'Quietus.' Players grow crops, tend to a farm, and build relationships with various characters, all while exploring dungeons and battling enemies. The game combines life-simulation mechanics with an engaging storyline and real-time combat.",
     "priceInEuro": 60,
     "isFirstParty": false,
-    "releaseDate": "Novenmber 4 2022",
+    "releaseDate": "November 4 2022",
     "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/harvestella.jpg?raw=true",
     "genre": "rpg",
     "characters": ["Cres", "Arya", "Unicorn", "Dim", "Asyl"],

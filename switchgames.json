@@ -6,7 +6,7 @@
         "priceInEuro": 60,
         "isFirstParty": true,
         "releaseDate": "October 27 2017",
-        "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/mario.png?raw=true",
+        "image": "https://raw.githubusercontent.com/LaurenOthmer/ProjectJSONBestanden/refs/heads/main/assets/mario.png",
         "genre": "platformer",
         "characters": ["Mario", "Princess Peach", "Bowser", "Toad", "Cappy"],
         "gameMaker": {

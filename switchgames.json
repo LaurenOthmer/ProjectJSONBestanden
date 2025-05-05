@@ -139,7 +139,7 @@
     "priceInEuro": 60,
     "isFirstParty": true,
     "releaseDate": "March 20 2020",
-    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/acnh.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/LaurenOthmer/ProjectJSONBestanden/refs/heads/main/assets/acnh.jpg",
     "genre": "life simulator",
     "characters": ["Tom Nook", "Isabelle", "Timmy", "Tommy", "Mabel", "Redd"],
     "gameMaker":{
@@ -158,7 +158,7 @@
     "priceInEuro": 60,
     "releaseDate": "November 21 2022",
     "isFirstParty": false,
-    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/P5R.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/LaurenOthmer/ProjectJSONBestanden/refs/heads/main/assets/P5R.jpg",
     "genre": "rpg",
     "characters": ["Joker", "Ryuji", "Ann", "Yusuke", "Makoto", "Futaba", "Haru", "Akechi", "Kasumi", "Morgana"],
     "gameMaker":{
@@ -177,7 +177,7 @@
     "description": "Immortals Fenyx Rising is an action-adventure game developed by Ubisoft and released in December 2020. Set in a vibrant, open-world version of ancient Greece, the game follows the story of Fenyx, a young hero tasked with saving the Greek gods and their home from a dark curse unleashed by the Titan Typhon.",
     "releaseDate": "December 3 2020",
     "isFirstParty": false,
-    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/immortals.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/LaurenOthmer/ProjectJSONBestanden/refs/heads/main/assets/immortals.jpg",
     "genre": "adventure",
     "characters": ["Fenyx", "Zeus", "Hermes", "Typhon"],
     "gameMaker":{

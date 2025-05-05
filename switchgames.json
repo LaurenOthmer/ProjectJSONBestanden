@@ -25,7 +25,7 @@
     "priceInEuro": 60,
     "isFirstParty": false,
     "releaseDate": "November 4 2022",
-    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/harvestella.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/LaurenOthmer/ProjectJSONBestanden/refs/heads/main/assets/harvestella.jpg",
     "genre": "rpg",
     "characters": ["Cres", "Arya", "Unicorn", "Dim", "Asyl"],
     "gameMaker": {
@@ -44,7 +44,7 @@
     "priceInEuro": 40,
     "isFirstParty": false,
     "releaseDate": "October 7 2019",
-    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/tonw.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/LaurenOthmer/ProjectJSONBestanden/refs/heads/main/assets/tonw.jpg",
     "genre": "farming simulator",
     "characters": ["Thomas", "Popouri", "Rick", "Ky", "An", "Doctor"],
     "gameMaker":{
@@ -63,7 +63,7 @@
     "priceInEuro": 60,
     "isFirstParty": true,
     "releaseDate": "September 26 2024",
-    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/echoes.png?raw=true",
+    "image": "https://raw.githubusercontent.com/LaurenOthmer/ProjectJSONBestanden/refs/heads/main/assets/echoes.png",
     "genre": "adventure",
     "characters": ["Zelda", "Link", "Ganon", "The King", "Impa"],
     "gameMaker": {
@@ -82,7 +82,7 @@
     "priceInEuro": 60,
     "isFirstParty": true,
     "releaseDate": "November 18 2022",
-    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/violet.jpg?raw=trues",
+    "image": "http://raw.githubusercontent.com/LaurenOthmer/ProjectJSONBestanden/refs/heads/main/assets/violet.jpg",
     "genre": "rpg",
     "characters": ["nemona", "Cassiopea", "Arven", "professor Turo"],
     "gameMaker": {
@@ -101,7 +101,7 @@
     "priceInEuro": 60,
     "isFirstParty": false,
     "releaseDate": "September 30 2017",
-    "image":"https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/octopath.jpg?raw=true",
+    "image":"http://raw.githubusercontent.com/LaurenOthmer/ProjectJSONBestanden/refs/heads/main/assets/octopath.jpg",
     "genre": "rpg",
     "characters":["Ophiolia", "Cyrus", "Primrose", "Tressa", "H'aanit", "Olberic"],
     "gameMaker":{
@@ -120,7 +120,7 @@
     "priceInEuro": 60,
     "isFirstParty": true,
     "releaseDate": "April 27 2017",
-    "image": "https://github.com/LaurenOthmer/ProjectJSONBestanden/blob/main/assets/Mariokart.jpg?raw=true",
+    "image": "http://raw.githubusercontent.com/LaurenOthmer/ProjectJSONBestanden/refs/heads/main/assets/Mariokart.jpg",
     "genre": "racing",
     "characters": ["Mario", "Luigi", "Shy Guy", "Princess Daisy", "Wario"],
     "gameMaker": {
